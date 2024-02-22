@@ -1,0 +1,80 @@
+@font-face {
+    font-family: WorkSans;
+    src: url("./fonts/WorkSans-VariableFont_wght.ttf");
+}
+
+*{
+    font-family: WorkSans;
+}
+
+body{
+    background-color: hsl(275, 100%, 97%);
+}
+
+.container{
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 90%;
+    padding: 30px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.question:hover{
+    color: #AD28EB;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 35px;
+    margin-left: 15px;
+    color: hsl(292, 42%, 14%);
+}
+
+hr{
+    border: solid 0.5px hsl(275, 100%, 97%);
+    margin-top: 20px;
+}
+
+button{
+    cursor: pointer;
+    background-color: inherit;
+    border: none;
+    appearance: none;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 16px;
+    margin: 0;
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+@media (min-width: 120px) {
+    .container{
+        width: 40%;
+    }
+
+    h1{
+        font-size: 35px;
+        margin-left: 15px;
+        
+    }
+}
