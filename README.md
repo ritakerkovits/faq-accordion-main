@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: ( https://ritakerkovits.github.io/faq-accordion-main/)
 
 ## My process
 
