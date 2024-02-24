@@ -19,10 +19,13 @@
 
 body{
     background-color: var(--clr-light-pink);
+    margin: 0;
 }
 
 .container{
     margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
     background-color: var(--clr-white);
     border-radius: 10px;
     max-width: 90%;
@@ -83,9 +86,10 @@ button{
 }
 
 
-@media (min-width: 120px) {
+@media (min-width: 400px) {
     .container{
         max-width: 40%;
+        margin: auto;
     }
 
     h1{
