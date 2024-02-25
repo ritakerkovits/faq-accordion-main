@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution of the challenge](./solution/screenshot.png)
+![Solution of the challenge](./solution/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: ( https://ritakerkovits.github.io/faq-accordion-main/)
+- Solution URL:  https://ritakerkovits.github.io/faq-accordion-main/
 
 ## My process
 
